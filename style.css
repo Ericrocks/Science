@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: blue; 
+
+
+}
+.menu{
+    text-decoration: none;
+    z-index: 10;
+
+    font-size: larger;
+    color: rgb(231, 245, 240);
+text-align: center;
+}
